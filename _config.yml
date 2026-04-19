@@ -68,7 +68,8 @@ content:
         quote: >
           An AI driven tool to help users improve focus and combine all their tools.
         description: | # this will include new lines to allow paragraphs
-          Built and scaled a direct-to-consumer perfume selling brand, managing marketing, sales, and operations \n Led customer acquisition through digital channels and in person sales \n Oversaw end-to-end business operations, including branding, logistics, and growth strategy
+          Built and scaled a direct-to-consumer perfume selling brand, managing marketing, sales, and operations 
+          Led customer acquisition through digital channels and in person sales \n Oversaw end-to-end business operations, including branding, logistics, and growth strategy
       - layout: top-middle
         title: FindMyStuff
         link: https://github.com/AliAbdullah-1921/SE---43
