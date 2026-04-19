@@ -68,13 +68,13 @@ content:
         quote: >
           An AI driven tool to help users improve focus and combine all their tools.
         description: | # this will include new lines to allow paragraphs
-          Built and scaled a direct-to-consumer perfume selling brand, managing marketing, sales, and operations 
-          Led customer acquisition through digital channels and in person sales \n Oversaw end-to-end business operations, including branding, logistics, and growth strategy
+           Built a full-stack MERN productivity platform integrating AI-based recommendations. Designed UX flows to improve user retention and focus tracking. Implemented features like habit tracking, flashcards, and task management
+
       - layout: top-middle
         title: FindMyStuff
         link: https://github.com/AliAbdullah-1921/SE---43
         description: |
-          Built a web application to help students locate lost items within LUMS \n Designed intuitive UX flows and implemented core functionalities for real-world usability \n Improved accessibility and ease of reporting/retrieving lost items
+          Built a web application to help students locate lost items within LUMS. Designed intuitive UX flows and implemented core functionalities for real-world usability. Improved accessibility and ease of reporting/retrieving lost items
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,7 +88,7 @@ content:
         quote: >
           Lending automation platform for banks & credit unions
         description: | # this will include new lines to allow paragraphs
-          Conducted testing for a fintech application, identifying bugs, usability issues, and design inconsistencies \n Collaborated with developers to improve product performance and user experience \n Contributed to improving software reliability through structured testing and feedback
+          Conducted testing for a fintech application, identifying bugs, usability issues, and design inconsistencies. Collaborated with developers to improve product performance and user experience. Contributed to improving software reliability through structured testing and feedback
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
